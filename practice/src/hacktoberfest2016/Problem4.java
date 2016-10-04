@@ -8,13 +8,13 @@ package hacktoberfest2016;
 /**
  * 
  */
+//TODO Solve the problem!
 public class Problem4 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
