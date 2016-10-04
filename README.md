@@ -1,2 +1,2 @@
 # hacktoberfest-practice
-In this repository each problem has its own branch, where the example has an issue. Solve the issue and it will be pulled into the master branch.
+In this repository the problems have their own branch, where the examples have an issue. Solve the issues and the branch will be pulled into the master branch, updating the master with the correct solutions.
