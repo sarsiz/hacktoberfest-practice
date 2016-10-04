@@ -15,7 +15,8 @@ public class Problem2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
+		x = "Hello World";
+		System.out.println(x);
 	}
 
 }
