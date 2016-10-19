@@ -20,6 +20,7 @@ public class Problem3 {
 			if(a[i] == a[i-1]){
 				count++;
 			}
+			i++;
 		}
 		return count;
 	}
