@@ -23,7 +23,7 @@ public class Problem1 {
 		}
 		while (x != 0) {
 			int l = x / div;
-			int r = x / 10;
+			int r = x % 10;
 
 			if (l != r) {
 				return false;
